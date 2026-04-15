@@ -122,4 +122,4 @@ https://colab.research.google.com/drive/1UBJMBeUvtyEhWudrumwcF_mQPjtJZAZY?usp=sh
 ## Author
 Harmanjot Kaur 
 
-LinkedIn: www.linkedin.com/in/Preeti-HR  
+LinkedIn: www.linkedin.com/in/harmanjot-kaur2003
